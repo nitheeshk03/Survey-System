@@ -4,6 +4,7 @@ This project was developed to submit as mini project for the OOP using Java Cour
 A small scale survey system with a bounded solution is implemented using Java concepts.
 
 Other details are present in the documentation provided.
+Output screenshots have been provided as a screenshot in the "Output Screenshots.docx"
 
 ## How to run?
     1. javac SurveySystem.java
